@@ -153,3 +153,5 @@ title.addEventListener('click', e=>{
 /* PROPAGACIÓN DE EVENTOS */
 /* Los eventos siempre se propagan a los superiores */
 e.stopPropagation()/* Elimina la propagación */
+
+/* DELEGACIÓN DE EVENTOS */
